@@ -44,8 +44,36 @@ Ces erreurs sont souvent liées à l'ego :
 
 Exemple typique      
 $ attacker --reuse-tool exploit_v2.py         
-➡️Signature identique détectée dans plusieurs incidents            
-  
+➡️Signature identique détectée dans plusieurs 
+
+                     ┏━━━━━━━━━━━━━━━━━━━━━━┓
+                     ┃       PROFIL         ┃
+                     ┃       Hacker         ┃
+                     ┗━━━━━━━━━━━━━━━━━━━━━━┛
+                               ↑
+                               │
+                               │
+        ┏━━━━━━━━━━━━━━━━━━┓       ┏━━━━━━━━━━━━━━━━━━┓
+        ┃   Le curieux     ┃  ←→  ┃   L’obsessif     ┃
+        ┗━━━━━━━━━━━━━━━━━━┛       ┗━━━━━━━━━━━━━━━━━━┛
+                               │
+                               ↓
+                     ┏━━━━━━━━━━━━━━━━━━┓
+                     ┃  L’opportuniste  ┃
+                     ┗━━━━━━━━━━━━━━━━━━┛
+                               │
+                               ↓
+                     ┏━━━━━━━━━━━━━━━━━━┓
+                     ┃   Le stratège    ┃
+                     ┗━━━━━━━━━━━━━━━━━━┛
+                               │
+                               ↓
+                     ┏━━━━━━━━━━━━━━━━━━┓
+                     ┃  Le mercenaire   ┃
+                     ┗━━━━━━━━━━━━━━━━━━┛
+
+
+
 
 ---   
 
