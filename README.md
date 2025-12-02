@@ -36,7 +36,7 @@ La plupart des hackers ne sont pas attrapés par des technologies sophistiquées
 
 Ces erreurs sont souvent liées à l'ego :   
 
-- réutilisation d’un même script préféré,     
+- réutilisation d'un même script préféré,     
 - retour sur une machine déjà compromise,     
 - oubli de nettoyer certains logs,     
 - confiance excessive dans leur anonymat,     
@@ -44,7 +44,7 @@ Ces erreurs sont souvent liées à l'ego :
 
 Exemple typique      
 $ attacker --reuse-tool exploit_v2.py         
-➡️Signature identique détectée dans plusieurs 
+➡️ Signature identique détectée dans plusieurs incidents   
 
                      ┏━━━━━━━━━━━━━━━━━━━━━━┓
                      ┃       PROFIL         ┃
@@ -88,7 +88,7 @@ Les attaquants expérimentés passent par :
 - des routeurs compromis,   
 - des machines zombies (botnets),   
 - des VPN en cascade,   
-- TOR + proxies + multiples rebonds.   
+- TOR + proxys + multiples rebonds.   
 ➡️ L’adresse IP visible n’est **presque jamais la leur**.   
 
 ---   
