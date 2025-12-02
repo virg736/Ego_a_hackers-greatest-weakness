@@ -1,3 +1,14 @@
+<div align="center">
+
+# Ego - A Hacker’s Greatest Weakness
+
+![Security](https://img.shields.io/badge/SECURITY-ACTIVE-orange?style=for-the-badge&logo=hackthebox)
+![Hacker Inside](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+<p>Projet pédagogique en cybersécurité…</p>
+
+</div>
+
 <p align="center">
   <img src="Ego_hackers_greatest_weakness.PNG" alt="Hacker Diagram" width="450">
 </p>
