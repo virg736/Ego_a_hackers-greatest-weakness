@@ -54,7 +54,7 @@ $ attacker --reuse-tool exploit_v2.py
                                │
                                │
         ┏━━━━━━━━━━━━━━━━━━┓       ┏━━━━━━━━━━━━━━━━━━┓
-        ┃   Le curieux     ┃  ←→  ┃   L’obsessif      ┃
+        ┃   Le curieux     ┃  ←→   ┃   L’obsessif     ┃
         ┗━━━━━━━━━━━━━━━━━━┛       ┗━━━━━━━━━━━━━━━━━━┛
                                │
                                ↓
