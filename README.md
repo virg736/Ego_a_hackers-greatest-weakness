@@ -298,4 +298,6 @@ et la compromission est possible.
 
         ---
 
+Le meilleur hacker n’est pas celui qui attaque, mais celui qu’on ne détecte jamais.
+
 
