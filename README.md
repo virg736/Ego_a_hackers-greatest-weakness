@@ -7,7 +7,7 @@ Ce document explique pourquoi *EGO* est un titre parfaitement pertinent - techni
 
 ---  
 
-1️⃣ L’ego provoque des erreurs d’OpSec   
+✅ # L’ego provoque des erreurs d’OpSec   
 
 La plupart des hackers ne sont pas attrapés par des technologies sophistiquées,     
 ➡️ **mais par leurs propres erreurs.**   
