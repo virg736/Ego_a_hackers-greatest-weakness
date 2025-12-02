@@ -45,6 +45,7 @@ Les attaquants expérimentés passent par :
 
 ---
 
+
                  _____________________________
                 |           ATTAQUANT         |
                 | (n’utilise jamais sa propre IP)
@@ -55,5 +56,61 @@ Les attaquants expérimentés passent par :
        |        Wi-Fi volé / Hotspot public          |
        |      (café, voisin, victime, lieu ouvert)   |
        |_____________________________________________|
-                           |
-                           v
+                        
+
+
+----
+
+
+        ┌───────────────────────────────┐
+        │           ATTAQUANT          │
+        │ (n’utilise jamais sa propre IP) │
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │   Wi-Fi volé / Hotspot public │
+        │ (café, voisin, victime, lieu ouvert) │
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │        Routeur compromis      │
+        │   (appareil utilisé comme relais) │
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │        Machine zombie         │
+        │       (PC infecté / botnet)   │
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │             VPN #1            │
+        │        (premier rebond)       │
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │             VPN #2            │
+        │ (cascade / changement de pays)│
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │              TOR              │
+        │    (multi-rebonds anonymes)   │
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │        Proxies chaînés        │
+        │ (multiples relais additionnels) │
+        └───────────────────────────────┘
+                     │
+                     v
+        ┌───────────────────────────────┐
+        │          SERVEUR CIBLE        │
+        │    (entreprise / site attaqué)│
+        └───────────────────────────────┘
