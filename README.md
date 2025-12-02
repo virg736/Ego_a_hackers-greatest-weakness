@@ -1,5 +1,9 @@
 ##  EGO - La vraie faiblesse des hackers
 
+<p align="center">
+  <img src="Ego_hackers_greatest_weakness.PNG" alt="Hacker Diagram" width="450">
+</p>
+
 Dans le domaine de la cybersécurité, on imagine souvent les hackers comme des fantômes impossibles à tracer.  
 La réalité est beaucoup plus humaine : **leur ego les trahit**.
 
