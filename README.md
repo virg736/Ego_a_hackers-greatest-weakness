@@ -22,31 +22,8 @@ Ces erreurs sont souvent liées à l'ego :
 
 Exemple typique      
 $ attacker --reuse-tool exploit_v2.py         
-➡️Signature identique détectée dans plusieurs incidents          
-
-
-                          [ LE CURIEUX ]
-                          [ THE CURIOUS ]
-
-                                 ↑
-                                 |
-                                 |
-
-        [ L’OPPORTUNISTE ] ←── [   HACKER   ] ──→ [ STRATÈGE ]
-        [  THE OPPORTUNIST ]     [  CENTRAL ]       [ STRATEGIST ]
-
-                                 |
-                                 ↓
-                                 |
-
-                          [ OBSSESSIF ]
-                          [ OBSESSIVE ]
-
-
-        [ MERCENAIRE ]                             [ IDÉOLOGUE ]
-        [  MERCENARY ]                             [  IDEOLOGUE ]
-
-
+➡️Signature identique détectée dans plusieurs incidents            
+  
 ---   
 
 # Comment les hackers restent (presque) invisibles en ligne   
