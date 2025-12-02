@@ -202,20 +202,20 @@ Un Wi-Fi invité :
 ✅ Résumé   
 
 - Donner la clé du routeur = **accès complet au réseau interne**.  
-- Un appareil infecté peut **contaminer l’entreprise**.  
+- Un appareil infecté peut **compromettre l’entreprise**.  
 - Le Wi-Fi principal doit rester **strictement interne**.  
 - Le Wi-Fi invité protège **les utilisateurs** et **l’entreprise**.
 
 ---
 
-> 🛑 **Note essentielle : La sécurité repose sur zéro erreur.**  
-> Les attaquants ne cherchent pas la perfection. Ils cherchent **une faille**.
+> 🛑 **Note essentielle : La sécurité repose sur l'absence totale d'erreur.**  
+> Les attaquants ne cherchent pas la perfection. Ils cherchent la moindre **faille**.
 
 # Une seule défaillance compromet tout.
 
 Pour pénétrer un système, un hacker n’a besoin que de :
 
-- 🔺 **Une vulnérabilité non patchée**
+- 🔺 **Une vulnérabilité non corrigée**
 - 🔺 **Un mot de passe faible ou réutilisé**
 - 🔺 **Une seule erreur humaine**
 
@@ -226,55 +226,57 @@ et la compromission est possible.
 ---
 
         ┌───────────────────────────────┐
-        │           ATTAQUANT          │
-        │ (n’utilise jamais sa propre IP) │
+        │          ATTAQUANT            │
+         (n’utilise jamais sa propre IP)│
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
-        │   Wi-Fi volé / Hotspot public │
-        │ (café, voisin, victime, lieu ouvert) │
+        │Wi-Fi compromis/Hotspot public │
+        │ (café, voisin, victime, 
+                 lieu ouvert)           │
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
         │        Routeur compromis      │
-        │   (appareil utilisé comme relais) │
+        │       (appareil utilisé 
+                  comme relais)         │
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
-        │        Machine zombie         │
-        │       (PC infecté / botnet)   │
+        │       Machine zombie          │
+        │      (PC infecté / botnet)    │
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
-        │             VPN #1            │
-        │        (premier rebond)       │
+        │          VPN #1               │
+        │       (premier rebond)        │
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
-        │             VPN #2            │
+        │           VPN #2              │
         │ (cascade / changement de pays)│
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
-        │              TOR              │
+        │            TOR                │
         │    (multi-rebonds anonymes)   │
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
-        │        Proxies chaînés        │
-        │ (multiples relais additionnels) │
+        │       Chaîne de proxys        │
+        │(multiples relais additionnels)│
         └───────────────────────────────┘
                      │
                      v
         ┌───────────────────────────────┐
-        │          SERVEUR CIBLE        │
+        │       SERVEUR CIBLE           │
         │    (entreprise / site attaqué)│
         └───────────────────────────────┘
 
