@@ -94,6 +94,78 @@ Parce qu’ils se croient invisibles, certains hackers :
 ➡️ Leur **excès de confiance** devient leur plus grande faiblesse.
 
 
+> ⚠️ **NOTE IMPORTANTE**  
+> Ne donne **jamais** la clé du routeur principal. C’est l’erreur la plus dangereuse et la plus fréquente dans les petites entreprises et à la maison.
+
+# 🚫 Pourquoi il est dangereux de donner la clé du routeur
+
+Donner la clé Wi-Fi revient à **ouvrir l’accès au réseau interne**.  
+Avec cette clé, un appareil peut :
+
+- se connecter au réseau principal,
+- atteindre les appareils internes,
+- intercepter certaines données,
+- installer des malwares,
+- provoquer des fuites ou des intrusions.
+
+➡️ Un simple téléphone infecté peut compromettre **tout le réseau**.
+
+---
+
+## 🧑‍💻 Pourquoi ne jamais donner cette clé à des personnes externes
+
+Une personne externe peut involontairement introduire :
+
+- virus ou spywares,
+- malwares latents,
+- outils d’intrusion.
+
+➡️ Ce n’est **pas la personne** le problème, c’est **l’état de son appareil**.
+
+---
+
+## 📶 Pourquoi créer un Wi-Fi “Invité”
+
+Un réseau invité permet à toute personne externe d’accéder à Internet **sans toucher au réseau interne** :
+
+- navigation normale,
+- isolation complète,
+- limitation des risques,
+- confinement des incidents.
+
+---
+
+## ⚠️ Le Wi-Fi : une ressource que les hackers adorent utiliser
+
+S’ils accèdent à ton Wi-Fi, ils peuvent utiliser **ta connexion** pour :
+
+- attaquer d’autres entreprises,
+- envoyer des e-mails malveillants,
+- mener des activités illégales.
+
+➡️ Toutes ces actions apparaîtront comme venant de **ton adresse IP**.
+
+---
+
+## 🛡️ Comment le réseau invité protège l’entreprise
+
+Un Wi-Fi invité :
+
+- isole les appareils externes,
+- empêche les abus de connexion,
+- bloque la propagation de malwares,
+- protège l’entreprise et la responsabilité du propriétaire du réseau.
+
+---
+
+## ✅ Résumé
+
+- Donner la clé du routeur = **accès complet au réseau interne**.  
+- Un appareil infecté peut **contaminer l’entreprise**.  
+- Le Wi-Fi principal doit rester **strictement interne**.  
+- Le Wi-Fi invité protège **les utilisateurs** et **l’entreprise**.
+
+
 ---
 
         ┌───────────────────────────────┐
