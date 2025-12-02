@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<p><em>© 2025 Virginie Lechene – Tous droits réservés</em><br>
+<p><em>© 2025 Virginie Lechene - Tous droits réservés</em><br>
 Reproduction interdite sans autorisation préalable.<br>
 Usage pédagogique uniquement.</p>
 
@@ -16,7 +16,7 @@ Usage pédagogique uniquement.</p>
        alt="Licence Creative Commons BY-ND 4.0">
 </a>
 
-<p><em>Image protégée – Propriété exclusive</em></p>
+<p><em>Image protégée - Propriété exclusive</em></p>
 
 </div>
 
