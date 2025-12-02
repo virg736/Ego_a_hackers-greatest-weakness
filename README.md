@@ -1,4 +1,4 @@
-## 💥 EGO — La vraie faiblesse des hackers
+## 💥 EGO - La vraie faiblesse des hackers
 
 Dans le domaine de la cybersécurité, on imagine souvent les hackers comme des fantômes impossibles à tracer.  
 La réalité est beaucoup plus humaine : **leur ego les trahit**.
@@ -12,29 +12,28 @@ Ce document explique pourquoi *EGO* est un titre parfaitement pertinent — tech
 La plupart des hackers ne sont pas attrapés par des technologies sophistiquées,  
 ➡️ **mais par leurs propres erreurs.**
 
-Ces erreurs sont souvent liées à l’ego :
+Ces erreurs sont souvent liées à l'ego :
 
 - réutilisation d’un même script préféré,  
 - retour sur une machine déjà compromise,  
 - oubli de nettoyer certains logs,  
 - confiance excessive dans leur anonymat,  
-- négligence des proxys et rebonds.
+- négligence des proxys et rebonds.   
 
-```bash
-# Exemple typique
-$ attacker --reuse-tool exploit_v2.py
-# Signature identique détectée dans plusieurs incidents
+# Exemple typique   
+$ attacker --reuse-tool exploit_v2.py   
+# Signature identique détectée dans plusieurs incidents    
 
 
 
 # 🔍 Comment les hackers restent (presque) invisibles en ligne
 
 On pense souvent que les hackers sont impossibles à retrouver.  
-En réalité, ils laissent **toujours** des traces… mais tout est fait pour compliquer l’enquête.
+En réalité, ils laissent **toujours** des traces… mais tout est fait pour compliquer l'enquête.
 
 ---
 
-## 1️⃣ Ils n’utilisent presque jamais leur propre connexion
+## 1️⃣ Ils n'utilisent presque jamais leur propre connexion
 
 Les attaquants expérimentés passent par :
 
