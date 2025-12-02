@@ -167,6 +167,21 @@ Un Wi-Fi invité :
 - Le Wi-Fi invité protège **les utilisateurs** et **l’entreprise**.
 
 
+> 🛑 **Note essentielle : La sécurité repose sur zéro erreur.**  
+> Les attaquants ne cherchent pas la perfection. Ils cherchent **une faille**.
+
+# Une seule défaillance compromet tout.
+
+Pour pénétrer un système, un hacker n’a besoin que de :
+
+- 🔺 **Une vulnérabilité non patchée**
+- 🔺 **Un mot de passe faible ou réutilisé**
+- 🔺 **Une seule erreur humaine**
+
+Il suffit **d’un seul élément**…  
+et la compromission est possible.
+
+
 ---
 
         ┌───────────────────────────────┐
