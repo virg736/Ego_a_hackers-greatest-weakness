@@ -47,26 +47,25 @@ $ attacker --reuse-tool exploit_v2.py
 ➡️Signature identique détectée dans plusieurs incidents            
   
                      ╔══════════════════╗
-                     ║    THE CURIOUS   ║
+                     ║     PROFIL
+                           Hacker       ║
                      ╚══════════════════╝
                                ↑
                                │
                                │
     ╔══════════════════╗   ←───┼───→   ╔══════════════════╗
-    ║  THE OBSESSIVE   ║               ║  THE STRATEGIST   ║
+    ║   Le curieux     ║               ║    Le obséssif   ║
     ╚══════════════════╝               ╚══════════════════╝
                                │
                                ↓
                      ╔══════════════════╗
-                     ║   THE MERCENARY  ║
+                     ║   L'opportuniste ║
                      ╚══════════════════╝
-
-←───────────────╔══════════════════╗───────────────→
-                ║   THE IDEOLOGUE  ║
-                ╚══════════════════╝
-
                      ╔══════════════════╗
-                     ║  THE OPPORTUNIST ║
+                     ║   Le stratége    ║
+                     ╚══════════════════╝
+                     ╔══════════════════╗
+                     ║   Le mercenaire  ║
                      ╚══════════════════╝
 
 
