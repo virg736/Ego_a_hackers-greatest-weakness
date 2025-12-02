@@ -149,7 +149,7 @@ Avec cette clé, un appareil peut :
 - se connecter au réseau principal,   
 - atteindre les appareils internes,   
 - intercepter certaines données,   
-- installer des malwares,   
+- installer ou propager des malwares,   
 - provoquer des fuites ou des intrusions.   
 ➡️ Un simple téléphone infecté peut compromettre **tout le réseau**.    
 
@@ -159,21 +159,21 @@ Avec cette clé, un appareil peut :
 
 Une personne externe peut involontairement introduire :   
 
-- virus ou spywares,   
-- malwares latents,   
-- outils d’intrusion.   
+- des virus ou des logiciels espions,   
+- des malwares dormants,   
+-  des outils d’intrusion.   
 ➡️ Ce n’est **pas la personne** le problème, c’est **l’état de son appareil**.   
 
 ---   
 
-# Pourquoi créer un Wi-Fi “Invité”   
+# Pourquoi configurer un Wi-Fi “Invité”   
 
-Un réseau invité permet à toute personne externe d’accéder à Internet **sans toucher au réseau interne** :   
+Créer un réseau invité permet à toute personne externe d’accéder à Internet **sans toucher au réseau interne** :   
 
-- navigation normale,   
-- isolation complète,   
-- limitation des risques,   
-- confinement des incidents.   
+- accès limité à internet uniquement,   
+- isolation complète des appareils internes,   
+- réduction drastique des risques,   
+- confinement des incidents potentiels.   
 
 ---   
 
