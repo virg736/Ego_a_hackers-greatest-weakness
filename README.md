@@ -45,23 +45,6 @@ Les attaquants expérimentés passent par :
 
 ---
 
-
-                 _____________________________
-                |           ATTAQUANT         |
-                | (n’utilise jamais sa propre IP)
-                |_____________________________|
-                           |
-                           v
-        ______________________________________________
-       |        Wi-Fi volé / Hotspot public          |
-       |      (café, voisin, victime, lieu ouvert)   |
-       |_____________________________________________|
-                        
-
-
-----
-
-
         ┌───────────────────────────────┐
         │           ATTAQUANT          │
         │ (n’utilise jamais sa propre IP) │
@@ -114,3 +97,5 @@ Les attaquants expérimentés passent par :
         │          SERVEUR CIBLE        │
         │    (entreprise / site attaqué)│
         └───────────────────────────────┘
+
+        ---
