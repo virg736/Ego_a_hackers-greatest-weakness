@@ -172,19 +172,19 @@ Créer un réseau invité permet à toute personne externe d’accéder à Inter
 
 - accès limité à internet uniquement,   
 - isolation complète des appareils internes,   
-- réduction drastique des risques,   
+- réduction des risques,   
 - confinement des incidents potentiels.   
 
 ---   
 
-⚠️ Le Wi-Fi : une ressource que les hackers adorent utiliser   
+⚠️ Le Wi-Fi : une ressource que les hackers adorent exploiter   
 
-S’ils accèdent à ton Wi-Fi, ils peuvent utiliser **ta connexion** pour :   
+S’ils accèdent à votre Wi-Fi, ils peuvent utiliser **votre connexion** pour :   
 
 - attaquer d’autres entreprises,   
 - envoyer des e-mails malveillants,    
 - mener des activités illégales.   
-➡️ Toutes ces actions apparaîtront comme venant de **ton adresse IP**.   
+➡️ Toutes ces actions apparaîtront comme venant de **votre adresse IP**.   
 
 ---   
 
@@ -194,7 +194,7 @@ Un Wi-Fi invité :
 
 - isole les appareils externes,   
 - empêche les abus de connexion,   
-- bloque la propagation de malwares,   
+- bloque la propagation de logiciels malveillants,   
 - protège l’entreprise et la responsabilité du propriétaire du réseau.   
 
 ---
