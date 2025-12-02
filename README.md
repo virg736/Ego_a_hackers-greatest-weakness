@@ -46,6 +46,31 @@ Exemple typique
 $ attacker --reuse-tool exploit_v2.py         
 ➡️Signature identique détectée dans plusieurs incidents            
   
+                     ╔══════════════════╗
+                     ║    THE CURIOUS   ║
+                     ╚══════════════════╝
+                               ↑
+                               │
+                               │
+    ╔══════════════════╗   ←───┼───→   ╔══════════════════╗
+    ║  THE OBSESSIVE   ║               ║  THE STRATEGIST   ║
+    ╚══════════════════╝               ╚══════════════════╝
+                               │
+                               ↓
+                     ╔══════════════════╗
+                     ║   THE MERCENARY  ║
+                     ╚══════════════════╝
+
+←───────────────╔══════════════════╗───────────────→
+                ║   THE IDEOLOGUE  ║
+                ╚══════════════════╝
+
+                     ╔══════════════════╗
+                     ║  THE OPPORTUNIST ║
+                     ╚══════════════════╝
+
+
+
 ---   
 
 # Comment les hackers restent (presque) invisibles en ligne   
