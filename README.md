@@ -136,7 +136,7 @@ Un réseau invité permet à toute personne externe d’accéder à Internet **s
 
 ---
 
-# ⚠️ Le Wi-Fi : une ressource que les hackers adorent utiliser
+⚠️ Le Wi-Fi : une ressource que les hackers adorent utiliser
 
 S’ils accèdent à ton Wi-Fi, ils peuvent utiliser **ta connexion** pour :
 
