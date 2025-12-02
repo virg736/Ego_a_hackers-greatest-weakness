@@ -64,7 +64,7 @@ Ces erreurs sont souvent liées à l'ego :
 - confiance excessive dans leur anonymat,     
 - négligence des proxys et rebonds.      
 
-Exemple typique: 
+Exemple typique:   
 $ attacker --reuse-tool exploit_v2.py         
 ➡️ Signature identique détectée dans plusieurs incidents   
 
