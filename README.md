@@ -29,6 +29,23 @@ Ce document explique pourquoi *EGO* est un titre parfaitement pertinent - techni
 
 ---  
 
+## Sommaire
+
+- [EGO – La vraie faiblesse des hackers](#ego---la-vraie-faiblesse-des-hackers)
+- [L’ego provoque des erreurs d’OpSec](#lego-provoque-des-erreurs-dopsec)
+- [Comment les hackers restent (presque) invisibles en ligne](#comment-les-hackers-restent-presque-invisibles-en-ligne)
+- [Pourquoi il est dangereux de donner la clé du routeur](#pourquoi-il-est-dangereux-de-donner-la-cle-du-routeur)
+- [Pourquoi ne jamais donner cette clé à des personnes externes](#pourquoi-ne-jamais-donner-cette-cle-a-des-personnes-externes)
+- [Pourquoi configurer un Wi-Fi « Invité »](#pourquoi-configurer-un-wi-fi-invite)
+- [Le Wi-Fi : une ressource que les hackers adorent utiliser](#le-wi-fi--une-ressource-que-les-hackers-adorent-utiliser)
+- [Comment le réseau invité protège l’entreprise](#comment-le-reseau-invite-protege-lentreprise)
+- [Résumé](#resume)
+- [Note essentielle : la sécurité repose sur zéro erreur](#note-essentielle--la-securite-repose-sur-zero-erreur)
+- [Une seule défaillance compromet tout](#une-seule-defaillance-compromet-tout)
+- [Sources et références (2024–2025)](#sources-et-references-20242025)
+
+---
+
 ## ✅ L’ego provoque des erreurs d’OpSec   
 
 La plupart des hackers ne sont pas attrapés par des technologies sophistiquées,     
