@@ -93,11 +93,12 @@ Parce qu’ils se croient invisibles, certains hackers :
 
 ➡️ Leur **excès de confiance** devient leur plus grande faiblesse.
 
+---
 
 > ⚠️ **NOTE IMPORTANTE**  
 > Ne donne **jamais** la clé du routeur principal. C’est l’erreur la plus dangereuse et la plus fréquente dans les petites entreprises et à la maison.
 
-# 🚫 Pourquoi il est dangereux de donner la clé du routeur
+# Pourquoi il est dangereux de donner la clé du routeur
 
 Donner la clé Wi-Fi revient à **ouvrir l’accès au réseau interne**.  
 Avec cette clé, un appareil peut :
@@ -112,7 +113,7 @@ Avec cette clé, un appareil peut :
 
 ---
 
-## 🧑‍💻 Pourquoi ne jamais donner cette clé à des personnes externes
+# Pourquoi ne jamais donner cette clé à des personnes externes
 
 Une personne externe peut involontairement introduire :
 
@@ -124,7 +125,7 @@ Une personne externe peut involontairement introduire :
 
 ---
 
-## 📶 Pourquoi créer un Wi-Fi “Invité”
+# Pourquoi créer un Wi-Fi “Invité”
 
 Un réseau invité permet à toute personne externe d’accéder à Internet **sans toucher au réseau interne** :
 
@@ -135,7 +136,7 @@ Un réseau invité permet à toute personne externe d’accéder à Internet **s
 
 ---
 
-## ⚠️ Le Wi-Fi : une ressource que les hackers adorent utiliser
+# ⚠️ Le Wi-Fi : une ressource que les hackers adorent utiliser
 
 S’ils accèdent à ton Wi-Fi, ils peuvent utiliser **ta connexion** pour :
 
@@ -147,7 +148,7 @@ S’ils accèdent à ton Wi-Fi, ils peuvent utiliser **ta connexion** pour :
 
 ---
 
-## 🛡️ Comment le réseau invité protège l’entreprise
+# Comment le réseau invité protège l’entreprise
 
 Un Wi-Fi invité :
 
@@ -158,7 +159,7 @@ Un Wi-Fi invité :
 
 ---
 
-## ✅ Résumé
+# ✅ Résumé
 
 - Donner la clé du routeur = **accès complet au réseau interne**.  
 - Un appareil infecté peut **contaminer l’entreprise**.  
