@@ -105,7 +105,7 @@ Pour remonter l’origine, il faut :
 
 ---   
 
-3️⃣ Ils se trouvent dans des pays où ils risquent peu   
+3️⃣ Ils opèrent souvent depuis des pays ou ils risquent peu.  
 
 Certains hackers agissent depuis des zones :   
 
@@ -120,7 +120,7 @@ Certains hackers agissent depuis des zones :
 4️⃣ Le défenseur doit être parfait, l’attaquant non   
 
 - Le défenseur doit surveiller **tout, en permanence**.   
-- L’attaquant n’a besoin que **d’une seule erreur** : service mal configuré, mot de passe réutilisé, employé distrait…   
+- L’attaquant lui, n’a besoin que **d’une seule erreur** : service mal configuré, mot de passe réutilisé, employé distrait…   
 ➡️ L’attaquant a un **avantage structurel**.   
 
 ---   
@@ -131,8 +131,8 @@ Parce qu’ils se croient invisibles, certains hackers :
 
 - répètent les mêmes techniques,   
 - reviennent sur les mêmes machines,   
-- réutilisent leurs scripts,   
-- laissent des patterns comportementaux,   
+- réutilisent leurs scripts favoris,   
+- laissent des schémas comportementaux,   
 - sous-estiment l’analyse forensique.   
 ➡️ Leur **excès de confiance** devient leur plus grande faiblesse.   
 
