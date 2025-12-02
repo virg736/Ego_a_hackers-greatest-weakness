@@ -3,7 +3,7 @@
 Dans le domaine de la cybersécurité, on imagine souvent les hackers comme des fantômes impossibles à tracer.  
 La réalité est beaucoup plus humaine : **leur ego les trahit**.
 
-Ce document explique pourquoi *EGO* est un titre parfaitement pertinent — techniquement, psychologiquement et opérationnellement.
+Ce document explique pourquoi *EGO* est un titre parfaitement pertinent - techniquement, psychologiquement et opérationnellement.
 
 ---
 
