@@ -20,6 +20,7 @@ Usage pédagogique uniquement.</p>
 
 ----
 <h2 align="center">EGO - La vraie faiblesse des hackers</h2>
+
 Dans le domaine de la cybersécurité, on imagine souvent les hackers comme des fantômes impossibles à tracer.  
 La réalité est beaucoup plus humaine : **leur ego les trahit**.
 
