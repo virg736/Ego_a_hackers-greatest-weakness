@@ -7,7 +7,7 @@ Ce document explique pourquoi *EGO* est un titre parfaitement pertinent - techni
 
 ---
 
-## 1️⃣ L’ego provoque des erreurs d’OpSec
+1️⃣ L’ego provoque des erreurs d’OpSec
 
 La plupart des hackers ne sont pas attrapés par des technologies sophistiquées,  
 ➡️ **mais par leurs propres erreurs.**
@@ -20,7 +20,7 @@ Ces erreurs sont souvent liées à l'ego :
 - confiance excessive dans leur anonymat,  
 - négligence des proxys et rebonds.   
 
-# Exemple typique   
+Exemple typique   
 $ attacker --reuse-tool exploit_v2.py      
 ➡️Signature identique détectée dans plusieurs incidents       
 
@@ -33,7 +33,7 @@ En réalité, ils laissent **toujours** des traces… mais tout est fait pour co
 
 ---
 
-## 1️⃣ Ils n'utilisent presque jamais leur propre connexion
+1️⃣ Ils n'utilisent presque jamais leur propre connexion
 
 Les attaquants expérimentés passent par :
 
@@ -46,7 +46,7 @@ Les attaquants expérimentés passent par :
 
 ➡️ L’adresse IP visible n’est **presque jamais la leur**.
 
-## 2️⃣ Les traces existent, mais elles sont dispersées
+2️⃣ Les traces existent, mais elles sont dispersées
 
 Une attaque peut passer par **5 à 10 pays**.  
 Pour remonter l’origine, il faut :
@@ -59,7 +59,7 @@ Pour remonter l’origine, il faut :
 
 ---
 
-## 3️⃣ Ils se trouvent dans des pays où ils risquent peu
+3️⃣ Ils se trouvent dans des pays où ils risquent peu
 
 Certains hackers agissent depuis des zones :
 
@@ -72,7 +72,7 @@ Certains hackers agissent depuis des zones :
 
 ---
 
-## 4️⃣ Le défenseur doit être parfait, l’attaquant non
+4️⃣ Le défenseur doit être parfait, l’attaquant non
 
 - Le défenseur doit surveiller **tout, en permanence**.
 - L’attaquant n’a besoin que **d’une seule erreur** : service mal configuré, mot de passe réutilisé, employé distrait…
@@ -81,7 +81,7 @@ Certains hackers agissent depuis des zones :
 
 ---
 
-## 5️⃣ L’ego pousse à commettre des erreurs
+5️⃣ L’ego pousse à commettre des erreurs
 
 Parce qu’ils se croient invisibles, certains hackers :
 
@@ -159,7 +159,7 @@ Un Wi-Fi invité :
 
 ---
 
-# ✅ Résumé
+✅ Résumé
 
 - Donner la clé du routeur = **accès complet au réseau interne**.  
 - Un appareil infecté peut **contaminer l’entreprise**.  
