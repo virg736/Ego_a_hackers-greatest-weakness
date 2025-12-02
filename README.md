@@ -21,8 +21,8 @@ Ces erreurs sont souvent liées à l'ego :
 - négligence des proxys et rebonds.   
 
 # Exemple typique   
-$ attacker --reuse-tool exploit_v2.py   
-# Signature identique détectée dans plusieurs incidents    
+$ attacker --reuse-tool exploit_v2.py      
+➡️Signature identique détectée dans plusieurs incidents       
 
 
 
@@ -42,6 +42,7 @@ Les attaquants expérimentés passent par :
 - des machines zombies (botnets),
 - des VPN en cascade,
 - TOR + proxies + multiples rebonds.
+
 
 ---
 
@@ -99,3 +100,5 @@ Les attaquants expérimentés passent par :
         └───────────────────────────────┘
 
         ---
+
+
