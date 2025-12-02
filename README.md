@@ -33,6 +33,17 @@ En réalité, ils laissent **toujours** des traces… mais tout est fait pour co
 
 ---
 
+## 1️⃣ Ils n'utilisent presque jamais leur propre connexion
+
+Les attaquants expérimentés passent par :
+
+- le Wi-Fi de victimes,
+- des routeurs compromis,
+- des machines zombies (botnets),
+- des VPN en cascade,
+- TOR + proxies + multiples rebonds.
+
+
 ➡️ L’adresse IP visible n’est **presque jamais la leur**.
 
 ## 2️⃣ Les traces existent, mais elles sont dispersées
@@ -81,18 +92,6 @@ Parce qu’ils se croient invisibles, certains hackers :
 - sous-estiment l’analyse forensique.
 
 ➡️ Leur **excès de confiance** devient leur plus grande faiblesse.
-
-
-
-## 1️⃣ Ils n'utilisent presque jamais leur propre connexion
-
-Les attaquants expérimentés passent par :
-
-- le Wi-Fi de victimes,
-- des routeurs compromis,
-- des machines zombies (botnets),
-- des VPN en cascade,
-- TOR + proxies + multiples rebonds.
 
 
 ---
