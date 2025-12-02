@@ -1,5 +1,18 @@
 <div align="center">
 
+# Ego — A Hacker’s Greatest Weakness
+
+![Security](https://img.shields.io/badge/SECURITY-ACTIVE-orange?style=for-the-badge&logo=hackthebox)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Parrot_Logo.png" width="180px">
+
+<p>Projet pédagogique en cybersécurité…</p>
+
+</div>
+
+
+<div align="center">
+
 ![Security](https://img.shields.io/badge/SECURITY-ACTIVE-orange?style=for-the-badge&logo=hackthebox)
 
 <p>Projet pédagogique en cybersécurité…</p>
