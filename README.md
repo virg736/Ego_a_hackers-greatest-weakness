@@ -46,29 +46,6 @@ Exemple typique
 $ attacker --reuse-tool exploit_v2.py         
 ➡️Signature identique détectée dans plusieurs incidents            
   
-                     ╔══════════════════╗
-                     ║     PROFIL
-                           Hacker       ║
-                     ╚══════════════════╝
-                               ↑
-                               │
-                               │
-    ╔══════════════════╗   ←───┼───→   ╔══════════════════╗
-    ║   Le curieux     ║               ║    Le obséssif   ║
-    ╚══════════════════╝               ╚══════════════════╝
-                               │
-                               ↓
-                     ╔══════════════════╗
-                     ║   L'opportuniste ║
-                     ╚══════════════════╝
-                     ╔══════════════════╗
-                     ║   Le stratége    ║
-                     ╚══════════════════╝
-                     ╔══════════════════╗
-                     ║   Le mercenaire  ║
-                     ╚══════════════════╝
-
-
 
 ---   
 
