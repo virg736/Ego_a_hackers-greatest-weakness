@@ -1,4 +1,4 @@
-## 💥 EGO - La vraie faiblesse des hackers
+##  EGO - La vraie faiblesse des hackers
 
 Dans le domaine de la cybersécurité, on imagine souvent les hackers comme des fantômes impossibles à tracer.  
 La réalité est beaucoup plus humaine : **leur ego les trahit**.
@@ -26,7 +26,7 @@ $ attacker --reuse-tool exploit_v2.py
 
 
 
-# 🔍 Comment les hackers restent (presque) invisibles en ligne
+# Comment les hackers restent (presque) invisibles en ligne
 
 On pense souvent que les hackers sont impossibles à retrouver.  
 En réalité, ils laissent **toujours** des traces… mais tout est fait pour compliquer l'enquête.
