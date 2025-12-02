@@ -24,14 +24,12 @@ Exemple typique
 $ attacker --reuse-tool exploit_v2.py      
 ➡️Signature identique détectée dans plusieurs incidents       
 
-
+---
 
 # Comment les hackers restent (presque) invisibles en ligne
 
 On pense souvent que les hackers sont impossibles à retrouver.  
 En réalité, ils laissent **toujours** des traces… mais tout est fait pour compliquer l'enquête.
-
----
 
 1️⃣ Ils n'utilisent presque jamais leur propre connexion
 
@@ -42,9 +40,9 @@ Les attaquants expérimentés passent par :
 - des machines zombies (botnets),
 - des VPN en cascade,
 - TOR + proxies + multiples rebonds.
-
-
 ➡️ L’adresse IP visible n’est **presque jamais la leur**.
+
+---
 
 2️⃣ Les traces existent, mais elles sont dispersées
 
@@ -54,7 +52,6 @@ Pour remonter l’origine, il faut :
 - récupérer les logs de chaque État,
 - obtenir des accords judiciaires internationaux,
 - compter sur une coopération réelle.
-
 ➡️ En pratique : c’est souvent **trop lent** ou **inapplicable**.
 
 ---
@@ -67,7 +64,6 @@ Certains hackers agissent depuis des zones :
 - où les autorités ne coopèrent pas,
 - contrôlées par des groupes criminels,
 - ou protégées par des États.
-
 ➡️ Tant qu’ils restent dans ces pays, ils sont **difficiles à poursuivre**.
 
 ---
@@ -76,7 +72,6 @@ Certains hackers agissent depuis des zones :
 
 - Le défenseur doit surveiller **tout, en permanence**.
 - L’attaquant n’a besoin que **d’une seule erreur** : service mal configuré, mot de passe réutilisé, employé distrait…
-
 ➡️ L’attaquant a un **avantage structurel**.
 
 ---
@@ -90,7 +85,6 @@ Parce qu’ils se croient invisibles, certains hackers :
 - réutilisent leurs scripts,
 - laissent des patterns comportementaux,
 - sous-estiment l’analyse forensique.
-
 ➡️ Leur **excès de confiance** devient leur plus grande faiblesse.
 
 ---
@@ -108,7 +102,6 @@ Avec cette clé, un appareil peut :
 - intercepter certaines données,
 - installer des malwares,
 - provoquer des fuites ou des intrusions.
-
 ➡️ Un simple téléphone infecté peut compromettre **tout le réseau**.
 
 ---
@@ -120,7 +113,6 @@ Une personne externe peut involontairement introduire :
 - virus ou spywares,
 - malwares latents,
 - outils d’intrusion.
-
 ➡️ Ce n’est **pas la personne** le problème, c’est **l’état de son appareil**.
 
 ---
@@ -143,7 +135,6 @@ S’ils accèdent à ton Wi-Fi, ils peuvent utiliser **ta connexion** pour :
 - attaquer d’autres entreprises,
 - envoyer des e-mails malveillants,
 - mener des activités illégales.
-
 ➡️ Toutes ces actions apparaîtront comme venant de **ton adresse IP**.
 
 ---
@@ -166,6 +157,7 @@ Un Wi-Fi invité :
 - Le Wi-Fi principal doit rester **strictement interne**.  
 - Le Wi-Fi invité protège **les utilisateurs** et **l’entreprise**.
 
+---
 
 > 🛑 **Note essentielle : La sécurité repose sur zéro erreur.**  
 > Les attaquants ne cherchent pas la perfection. Ils cherchent **une faille**.
