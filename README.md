@@ -4,6 +4,23 @@
   <img src="Ego_hackers_greatest_weakness.PNG" alt="Hacker Diagram" width="450">
 </p>
 
+
+<div align="center">
+
+<p><em>© 2025 Virginie Lechene – Tous droits réservés</em><br>
+Reproduction interdite sans autorisation préalable.<br>
+Usage pédagogique uniquement.</p>
+
+<a href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="noopener noreferrer">
+  <img src="https://licensebuttons.net/l/by-nd/4.0/88x31.png" 
+       alt="Licence Creative Commons BY-ND 4.0">
+</a>
+
+<p><em>Image protégée – Propriété exclusive</em></p>
+
+</div>
+
+
 Dans le domaine de la cybersécurité, on imagine souvent les hackers comme des fantômes impossibles à tracer.  
 La réalité est beaucoup plus humaine : **leur ego les trahit**.
 
