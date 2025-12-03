@@ -51,7 +51,7 @@ Ce document explique pourquoi *EGO* est un titre parfaitement pertinent - techni
 
 ---
 
-## 🔐 MICE — Pourquoi parler d’EGO ?
+## 🔐 MICE - Pourquoi parler d’EGO ?
 
 Le modèle **MICE** décrit les motivations humaines :
 - **Money** (argent)
