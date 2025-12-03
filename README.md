@@ -51,6 +51,19 @@ Ce document explique pourquoi *EGO* est un titre parfaitement pertinent - techni
 
 ---
 
+## 🔐 MICE — Pourquoi parler d’EGO ?
+
+Le modèle **MICE** décrit les motivations humaines :
+- **Money** (argent)
+- **Ideology** (idéologie)
+- **Compromise** (compromission)
+- **Ego**
+
+Je mets l’accent sur **EGO**, car c’est la faiblesse la plus visible : l’ego pousse à se vanter, à prendre des risques et finit par briser l’OpSec. C’est souvent ce qui trahit les hackers.
+
+---
+
+
 ## ✅ L’ego provoque des erreurs d’OpSec   
 
 La plupart des hackers ne sont pas attrapés par des technologies sophistiquées,     
