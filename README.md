@@ -61,6 +61,8 @@ Le modèle **MICE** décrit les motivations humaines :
 
 Je mets l’accent sur **EGO**, car c’est la faiblesse la plus visible : l’ego pousse à se mettre en avant, à prendre des risques et finit par briser l’OpSec. C’est souvent ce qui trahit les hackers.
 
+> **OpSec (Operational Security)** : ensemble de pratiques techniques et comportementales qui visent à limiter au maximum les fuites d’informations et à empêcher un adversaire de comprendre qui vous êtes, ce que vous faites et comment vous le faites.
+
 ---
 
 
