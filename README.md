@@ -59,7 +59,7 @@ Le modèle **MICE** décrit les motivations humaines :
 - **Compromise** (compromission)
 - **Ego**
 
-Je mets l’accent sur **EGO**, car c’est la faiblesse la plus visible : l’ego pousse à se mettre en avsnt, à prendre des risques et finit par briser l’OpSec. C’est souvent ce qui trahit les hackers.
+Je mets l’accent sur **EGO**, car c’est la faiblesse la plus visible : l’ego pousse à se mettre en avant, à prendre des risques et finit par briser l’OpSec. C’est souvent ce qui trahit les hackers.
 
 ---
 
