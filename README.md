@@ -17,9 +17,7 @@
 <a href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="noopener noreferrer">
   <img src="https://licensebuttons.net/l/by-nd/4.0/88x31.png" 
        alt="Licence Creative Commons BY-ND 4.0">
-</a>
-
-<p><em>Image protégée - Propriété exclusive</em></p>
+</a> 
 
 </div>
 
