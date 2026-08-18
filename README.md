@@ -219,7 +219,7 @@ Il peut notamment offrir :
 
         ┌───────────────────────────────┐
         │          ATTAQUANT            │
-         (n’utilise jamais sa propre IP)│
+         
         └───────────────────────────────┘
                      │
                      v
