@@ -222,28 +222,7 @@ Il peut notamment offrir :
 
 ➡️ Cette protection dépend de la configuration du routeur : le réseau invité doit être isolé du réseau local et, si possible, les appareils invités doivent aussi être isolés les uns des autres.
 
-# Pourquoi ne jamais donner cette clé à des personnes externes   
-
-Une personne externe peut involontairement introduire :   
-
-- des virus ou des logiciels espions,   
-- des malwares dormants,   
--  des outils d’intrusion.   
-➡️ Ce n’est **pas la personne** le problème, c’est **l’état de son appareil**.   
-
----   
-
-# Pourquoi configurer un Wi-Fi “Invité”   
-
-Créer un réseau invité permet à toute personne externe d’accéder à Internet **sans toucher au réseau interne** :   
-
-- accès limité à internet uniquement,   
-- isolation complète des appareils internes,   
-- réduction des risques,   
-- confinement des incidents potentiels.   
-
----   
-
+ 
 ⚠️ Le Wi-Fi : une ressource que les hackers adorent exploiter   
 
 S’ils accèdent à votre Wi-Fi, ils peuvent utiliser **votre connexion** pour :   
