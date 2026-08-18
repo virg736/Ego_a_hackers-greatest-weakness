@@ -194,10 +194,6 @@ Connaître le mot de passe du Wi-Fi principal permet à un appareil situé à po
 
 ➡️ Un appareil compromis connecté au réseau principal augmente le risque pour les autres systèmes, mais ne compromet pas automatiquement tout le réseau.
 
-
-> ⚠️ **NOTE IMPORTANTE**     
-> Ne donne **jamais** la clé du routeur principal. C’est l’erreur la plus dangereuse et la plus fréquente dans les petites entreprises et à la maison.   
-
 # Pourquoi il est dangereux de donner la clé du routeur   
 
 Donner la clé Wi-Fi revient à **ouvrir l’accès au réseau interne**.     
