@@ -62,7 +62,6 @@ Je mets l’accent sur **EGO**, car c’est la faiblesse la plus visible : l’e
 
 ---
 
-
 ## ✅ L’ego provoque des erreurs d’OpSec
 
 ➡️ Malgré l’emploi de techniques d’anonymisation, un attaquant peut laisser des indices en :
@@ -155,16 +154,6 @@ Une enquête peut devenir plus difficile lorsque :
 - l’auteur bénéficie d’une protection ou d’une tolérance locale.
 
 ➡️ La localisation à l’étranger ne garantit pas l’impunité, mais elle peut ralentir ou compliquer l’identification, l’arrestation et l’extradition d’un suspect.
-
-3️⃣ Ils opèrent souvent depuis des pays ou ils risquent peu.  
-
-Certains hackers agissent depuis des zones :   
-
-- sans législation cyber claire,   
-- où les autorités ne coopèrent pas,   
-- contrôlées par des groupes criminels,   
-- ou protégées par des États.   
-➡️ Tant qu’ils restent dans ces pays, ils sont **difficiles à poursuivre**.    
 
 ---   
 
