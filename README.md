@@ -177,27 +177,6 @@ Certains attaquants peuvent :
 
 ➡️ Ces ressemblances constituent des indices. Elles ne prouvent pas, à elles seules, que plusieurs opérations ont été menées par la même personne.
 
-L’excès de confiance peut favoriser ces erreurs, mais il n’en est pas nécessairement la cause.
-
-4️⃣ Le défenseur doit être parfait, l’attaquant non   
-
-- Le défenseur doit surveiller **tout, en permanence**.   
-- L’attaquant lui, n’a besoin que **d’une seule erreur** : service mal configuré, mot de passe réutilisé, employé distrait…   
-➡️ L’attaquant a un **avantage structurel**.   
-
----   
-
-5️⃣ L’ego pousse à commettre des erreurs   
-
-Parce qu’ils se croient invisibles, certains hackers :   
-
-- répètent les mêmes techniques,   
-- reviennent sur les mêmes machines,   
-- réutilisent leurs scripts favoris,   
-- laissent des schémas comportementaux,   
-- sous-estiment l’analyse forensique.   
-➡️ Leur **excès de confiance** devient leur plus grande faiblesse.   
-
 ---   
 
 > ⚠️ **NOTE IMPORTANTE**     
