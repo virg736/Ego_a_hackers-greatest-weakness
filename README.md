@@ -63,7 +63,19 @@ Je mets l’accent sur **EGO**, car c’est la faiblesse la plus visible : l’e
 ---
 
 
-## ✅ L’ego provoque des erreurs d’OpSec   
+## ✅ L’ego provoque des erreurs d’OpSec
+
+Malgré l’emploi de techniques d’anonymisation, un attaquant peut laisser des indices en :
+
+- réutilisant un outil, un pseudonyme ou une infrastructure ;
+- se reconnectant à un système déjà surveillé ;
+- mélangeant ses identités personnelles et opérationnelles ;
+- conservant des habitudes techniques ou horaires reconnaissables ;
+- révélant accidentellement une adresse IP ou des métadonnées.
+
+Ces éléments ne permettent pas toujours d’identifier une personne. Leur recoupement entre plusieurs incidents peut toutefois aider les enquêteurs à relier différentes opérations à un même acteur.
+
+L’excès de confiance peut favoriser certaines erreurs, mais il n’en est pas l’unique cause.
 
 La plupart des hackers ne sont pas attrapés par des technologies sophistiquées,     
 ➡️ **mais par leurs propres erreurs.**   
