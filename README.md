@@ -141,7 +141,22 @@ Les attaquants expérimentés passent par :
 
 ---   
 
-2️⃣ Les traces existent, mais elles sont dispersées   
+2️⃣ ### 2️⃣ Les traces peuvent être réparties entre plusieurs services et juridictions
+
+Lorsqu’une connexion passe par plusieurs intermédiaires, les informations utiles peuvent être détenues par différents fournisseurs de VPN, opérateurs, hébergeurs ou services en ligne, parfois situés dans plusieurs pays.
+
+Pour tenter de reconstituer le parcours, les enquêteurs peuvent devoir :
+
+- identifier les intermédiaires concernés ;
+- obtenir et comparer des journaux de connexion horodatés ;
+- adresser des demandes légales aux entreprises ou aux autorités compétentes ;
+- agir avant l’expiration ou la suppression des données.
+
+➡️ La conservation limitée des journaux, le chiffrement, l’absence de données et les délais de coopération peuvent compliquer ou empêcher la remontée jusqu’à l’origine.
+
+
+
+Les traces existent, mais elles sont dispersées   
 
 Une attaque peut passer par **5 à 10 pays**.     
 Pour remonter l’origine, il faut :   
