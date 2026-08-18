@@ -65,7 +65,7 @@ Je mets l’accent sur **EGO**, car c’est la faiblesse la plus visible : l’e
 
 ## ✅ L’ego provoque des erreurs d’OpSec
 
-Malgré l’emploi de techniques d’anonymisation, un attaquant peut laisser des indices en :
+➡️ Malgré l’emploi de techniques d’anonymisation, un attaquant peut laisser des indices en :
 
 - réutilisant un outil, un pseudonyme ou une infrastructure ;
 - se reconnectant à un système déjà surveillé ;
@@ -77,20 +77,6 @@ Ces éléments ne permettent pas toujours d’identifier une personne. Leur reco
 
 L’excès de confiance peut favoriser certaines erreurs, mais il n’en est pas l’unique cause.
 
-La plupart des hackers ne sont pas attrapés par des technologies sophistiquées,     
-➡️ **mais par leurs propres erreurs.**   
-
-Ces erreurs sont souvent liées à l'ego :   
-
-- réutilisation d'un même script préféré,     
-- retour sur une machine déjà compromise,     
-- oubli de nettoyer certains logs,     
-- confiance excessive dans leur anonymat,     
-- négligence des proxys et rebonds.      
-
-Exemple typique:   
-$ attacker --reuse-tool exploit_v2.py         
-➡️ Signature identique détectée dans plusieurs incidents   
 
                      ┏━━━━━━━━━━━━━━━━━━━━━━┓
                      ┃       PROFIL         ┃
