@@ -224,6 +224,17 @@ Il peut notamment offrir :
 
 ---   
 
+## Résumé
+
+- Un réseau invité correctement isolé sépare les appareils externes du réseau principal.
+- Il réduit les risques d’accès aux ressources internes et de propagation d’une infection.
+- Un appareil compromis connecté au Wi-Fi principal augmente le risque sans compromettre automatiquement tout le réseau.
+- L’efficacité de cette protection dépend de la configuration du routeur et des règles d’isolation.
+
+
+
+
+
 # Comment le réseau invité protège l’entreprise   
 
 Un Wi-Fi invité :   
