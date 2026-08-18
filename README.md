@@ -179,6 +179,50 @@ Certains attaquants peuvent :
 
 ---   
 
+
+> ⚠️ **NOTE IMPORTANTE**  
+> Évitez de communiquer le mot de passe du Wi-Fi principal à des personnes ou à des appareils non maîtrisés. Utilisez plutôt un réseau invité correctement isolé.
+
+## Pourquoi protéger l’accès au Wi-Fi principal
+
+Connaître le mot de passe du Wi-Fi principal permet à un appareil situé à portée de rejoindre ce réseau. Selon sa configuration et les protections en place, cet appareil peut alors :
+
+- détecter certains appareils et services accessibles sur le réseau local ;
+- tenter d’exploiter des équipements vulnérables ou mal configurés ;
+- accéder à des ressources partagées insuffisamment protégées ;
+- observer certaines informations réseau, sans nécessairement pouvoir lire le contenu chiffré des communications ;
+- servir de point de départ à d’autres attaques.
+
+➡️ Un appareil compromis connecté au réseau principal augmente le risque pour les autres systèmes, mais ne compromet pas automatiquement tout le réseau.
+
+---
+
+## Pourquoi éviter de connecter des appareils externes au Wi-Fi principal
+
+L’appareil d’un visiteur peut être compromis sans que son propriétaire le sache. Une fois connecté au réseau principal, il peut notamment :
+
+- communiquer avec un logiciel malveillant déjà présent ;
+- rechercher des appareils ou des services vulnérables ;
+- tenter d’accéder à des ressources locales insuffisamment protégées ;
+- faciliter la propagation d’une infection si les protections du réseau sont insuffisantes.
+
+➡️ Le risque ne vient pas nécessairement de la personne, mais de l’état de son appareil et de la configuration du réseau.
+
+---
+
+## Pourquoi configurer un Wi-Fi invité
+
+Un réseau invité correctement configuré permet de fournir un accès à Internet tout en séparant les appareils externes du réseau principal.
+
+Il peut notamment offrir :
+
+- un accès limité à Internet ;
+- une isolation entre les invités et les appareils internes ;
+- une réduction du risque de propagation vers le réseau principal ;
+- un mot de passe distinct, qui peut être changé sans modifier celui du Wi-Fi principal.
+
+➡️ Cette protection dépend de la configuration du routeur : le réseau invité doit être isolé du réseau local et, si possible, les appareils invités doivent aussi être isolés les uns des autres.
+
 > ⚠️ **NOTE IMPORTANTE**  
 > Évitez de communiquer le mot de passe du Wi-Fi principal à des personnes ou à des appareils non maîtrisés. Utilisez plutôt un réseau invité correctement isolé.
 
