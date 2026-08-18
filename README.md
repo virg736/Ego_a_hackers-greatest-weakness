@@ -179,6 +179,22 @@ Certains attaquants peuvent :
 
 ---   
 
+> ⚠️ **NOTE IMPORTANTE**  
+> Évitez de communiquer le mot de passe du Wi-Fi principal à des personnes ou à des appareils non maîtrisés. Utilisez plutôt un réseau invité correctement isolé.
+
+## Pourquoi protéger l’accès au Wi-Fi principal
+
+Connaître le mot de passe du Wi-Fi principal permet à un appareil situé à portée de rejoindre ce réseau. Selon sa configuration et les protections en place, cet appareil peut alors :
+
+- détecter certains appareils et services accessibles sur le réseau local ;
+- tenter d’exploiter des équipements vulnérables ou mal configurés ;
+- accéder à des ressources partagées insuffisamment protégées ;
+- observer certaines informations réseau, sans nécessairement pouvoir lire le contenu chiffré des communications ;
+- servir de point de départ à d’autres attaques.
+
+➡️ Un appareil compromis connecté au réseau principal augmente le risque pour les autres systèmes, mais ne compromet pas automatiquement tout le réseau.
+
+
 > ⚠️ **NOTE IMPORTANTE**     
 > Ne donne **jamais** la clé du routeur principal. C’est l’erreur la plus dangereuse et la plus fréquente dans les petites entreprises et à la maison.   
 
