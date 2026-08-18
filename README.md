@@ -231,46 +231,8 @@ Il peut notamment offrir :
 - Un appareil compromis connecté au Wi-Fi principal augmente le risque sans compromettre automatiquement tout le réseau.
 - L’efficacité de cette protection dépend de la configuration du routeur et des règles d’isolation.
 
-
-
-
-
-# Comment le réseau invité protège l’entreprise   
-
-Un Wi-Fi invité :   
-
-- isole les appareils externes,   
-- empêche les abus de connexion,   
-- bloque la propagation de logiciels malveillants,   
-- protège l’entreprise et la responsabilité du propriétaire du réseau.   
-
 ---
 
-✅ Résumé   
-
-- Donner la clé du routeur = **accès complet au réseau interne**.  
-- Un appareil infecté peut **compromettre l’entreprise**.  
-- Le Wi-Fi principal doit rester **strictement interne**.  
-- Le Wi-Fi invité protège **les utilisateurs** et **l’entreprise**.
-
----
-
-> 🛑 **Note essentielle : La sécurité repose sur l'absence totale d'erreur.**  
-> Les attaquants ne cherchent pas la perfection. Ils cherchent la moindre **faille**.
-
-# Une seule défaillance compromet tout.
-
-Pour pénétrer un système, un hacker n’a besoin que de :
-
-- 🔺 **Une vulnérabilité non corrigée**
-- 🔺 **Un mot de passe faible ou réutilisé**
-- 🔺 **Une seule erreur humaine**
-
-Il suffit **d’un seul élément**…  
-et la compromission est possible.
-
-
----
 
         ┌───────────────────────────────┐
         │          ATTAQUANT            │
