@@ -109,6 +109,22 @@ L’excès de confiance peut favoriser certaines erreurs, mais il n’en est pas
 
 # Comment les hackers restent (presque) invisibles en ligne   
 
+## Comment certains attaquants dissimulent leur origine en ligne
+
+Les attaquants peuvent utiliser différents intermédiaires afin de compliquer leur identification. Ces méthodes ne les rendent toutefois pas invisibles et peuvent laisser des traces exploitables.
+
+### 1️⃣ L’adresse IP observée n’est pas nécessairement celle de l’attaquant
+
+Une connexion malveillante peut notamment transiter par :
+
+- un appareil ou un routeur compromis ;
+- une machine appartenant à un botnet ;
+- un VPN ou un proxy ;
+- le réseau Tor ;
+- plusieurs infrastructures intermédiaires.
+
+➡️ L’adresse IP visible peut donc appartenir à un intermédiaire. Elle reste néanmoins un indice utile pour l’enquête.
+
 On pense souvent que les hackers sont impossibles à retrouver.     
 En réalité, ils laissent **toujours** des traces… mais tout est fait pour compliquer l'enquête.   
 
