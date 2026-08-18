@@ -291,6 +291,7 @@ Il peut notamment offrir :
 
         ---
 
+🔴 L’attaquant le plus difficile à identifier est celui qui laisse le moins d’indices exploitables.
 🛑 Le meilleur hacker n’est pas celui qui attaque, mais celui qu’on ne détecte jamais.
 
 ----
