@@ -157,6 +157,28 @@ Une enquête peut devenir plus difficile lorsque :
 
 ---   
 
+### 4️⃣ La défense et l’attaque sont asymétriques
+
+Une organisation doit protéger de nombreux comptes, appareils et services. Un attaquant cherche seulement un point d’entrée exploitable : service mal configuré, mot de passe compromis, logiciel non corrigé ou erreur humaine.
+
+Cette asymétrie peut avantager l’attaquant, mais le défenseur n’a pas besoin d’être parfait. La segmentation, l’authentification multifacteur, la surveillance et la réponse aux incidents peuvent empêcher une première intrusion de compromettre tout le système.
+
+---
+
+### 5️⃣ La répétition de certaines habitudes peut faciliter l’attribution
+
+Certains attaquants peuvent :
+
+- réutiliser les mêmes outils, pseudonymes ou infrastructures ;
+- reproduire des techniques et des configurations particulières ;
+- revenir sur des systèmes déjà surveillés ;
+- conserver des habitudes techniques ou horaires reconnaissables ;
+- sous-estimer les capacités d’analyse et de recoupement.
+
+➡️ Ces ressemblances constituent des indices. Elles ne prouvent pas, à elles seules, que plusieurs opérations ont été menées par la même personne.
+
+L’excès de confiance peut favoriser ces erreurs, mais il n’en est pas nécessairement la cause.
+
 4️⃣ Le défenseur doit être parfait, l’attaquant non   
 
 - Le défenseur doit surveiller **tout, en permanence**.   
