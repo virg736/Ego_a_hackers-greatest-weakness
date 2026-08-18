@@ -125,23 +125,9 @@ Une connexion malveillante peut notamment transiter par :
 
 ➡️ L’adresse IP visible peut donc appartenir à un intermédiaire. Elle reste néanmoins un indice utile pour l’enquête.
 
-On pense souvent que les hackers sont impossibles à retrouver.     
-En réalité, ils laissent **toujours** des traces… mais tout est fait pour compliquer l'enquête.   
-
-1️⃣ Ils n'utilisent presque jamais leur propre connexion      
-
-Les attaquants expérimentés passent par :   
-
-- le Wi-Fi de victimes,   
-- des routeurs compromis,   
-- des machines zombies (botnets),   
-- des VPN en cascade,   
-- TOR + proxys + multiples rebonds.   
-➡️ L’adresse IP visible n’est **presque jamais la leur**.   
-
 ---   
 
-2️⃣ ### 2️⃣ Les traces peuvent être réparties entre plusieurs services et juridictions
+### 2️⃣ Les traces peuvent être réparties entre plusieurs services et juridictions
 
 Lorsqu’une connexion passe par plusieurs intermédiaires, les informations utiles peuvent être détenues par différents fournisseurs de VPN, opérateurs, hébergeurs ou services en ligne, parfois situés dans plusieurs pays.
 
@@ -153,18 +139,6 @@ Pour tenter de reconstituer le parcours, les enquêteurs peuvent devoir :
 - agir avant l’expiration ou la suppression des données.
 
 ➡️ La conservation limitée des journaux, le chiffrement, l’absence de données et les délais de coopération peuvent compliquer ou empêcher la remontée jusqu’à l’origine.
-
-
-
-Les traces existent, mais elles sont dispersées   
-
-Une attaque peut passer par **5 à 10 pays**.     
-Pour remonter l’origine, il faut :   
-
-- récupérer les logs de chaque État,   
-- obtenir des accords judiciaires internationaux,   
-- compter sur une coopération réelle.   
-➡️ En pratique : c’est souvent **trop lent** ou **inapplicable**.   
 
 ---   
 
