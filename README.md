@@ -194,7 +194,75 @@ Connaître le mot de passe du Wi-Fi principal permet à un appareil situé à po
 
 ➡️ Un appareil compromis connecté au réseau principal augmente le risque pour les autres systèmes, mais ne compromet pas automatiquement tout le réseau.
 
+
+> ⚠️ **NOTE IMPORTANTE**     
+> Ne donne **jamais** la clé du routeur principal. C’est l’erreur la plus dangereuse et la plus fréquente dans les petites entreprises et à la maison.   
+
+# Pourquoi il est dangereux de donner la clé du routeur   
+
+Donner la clé Wi-Fi revient à **ouvrir l’accès au réseau interne**.     
+Avec cette clé, un appareil peut :   
+
+- se connecter au réseau principal,   
+- atteindre les appareils internes,   
+- intercepter certaines données,   
+- installer ou propager des malwares,   
+- provoquer des fuites ou des intrusions.   
+➡️ Un simple téléphone infecté peut compromettre **tout le réseau**.    
+
 ---   
+
+## Pourquoi éviter de connecter des appareils externes au Wi-Fi principal
+
+L’appareil d’un visiteur peut être compromis sans que son propriétaire le sache. Une fois connecté au réseau principal, il peut notamment :
+
+- communiquer avec un logiciel malveillant déjà présent ;
+- rechercher des appareils ou des services vulnérables ;
+- tenter d’accéder à des ressources locales insuffisamment protégées ;
+- faciliter la propagation d’une infection, si les protections du réseau sont insuffisantes.
+
+➡️ Le risque ne vient pas nécessairement de la personne, mais de l’état de son appareil et de la configuration du réseau.
+
+---
+
+## Pourquoi configurer un Wi-Fi invité
+
+Un réseau invité correctement configuré permet de fournir un accès à Internet tout en séparant les appareils externes du réseau principal.
+
+Il peut notamment offrir :
+
+- un accès limité à Internet ;
+- une isolation entre les invités et les appareils internes ;
+- une réduction du risque de propagation vers le réseau principal ;
+- un mot de passe distinct, qui peut être changé sans modifier celui du Wi-Fi principal.
+
+➡️ Cette protection dépend de la configuration du routeur : le réseau invité doit être isolé du réseau local et, si possible, les appareils invités doivent aussi être isolés les uns des autres.
+
+## Pourquoi éviter de connecter des appareils externes au Wi-Fi principal
+
+L’appareil d’un visiteur peut être compromis sans que son propriétaire le sache. Une fois connecté au réseau principal, il peut notamment :
+
+- communiquer avec un logiciel malveillant déjà présent ;
+- rechercher des appareils ou des services vulnérables ;
+- tenter d’accéder à des ressources locales insuffisamment protégées ;
+- faciliter la propagation d’une infection, si les protections du réseau sont insuffisantes.
+
+➡️ Le risque ne vient pas nécessairement de la personne, mais de l’état de son appareil et de la configuration du réseau.
+
+---
+
+## Pourquoi configurer un Wi-Fi invité
+
+Un réseau invité correctement configuré permet de fournir un accès à Internet tout en séparant les appareils externes du réseau principal.
+
+Il peut notamment offrir :
+
+- un accès limité à Internet ;
+- une isolation entre les invités et les appareils internes ;
+- une réduction du risque de propagation vers le réseau principal ;
+- un mot de passe distinct, qui peut être changé sans modifier celui du Wi-Fi principal.
+
+➡️ Cette protection dépend de la configuration du routeur : le réseau invité doit être isolé du réseau local et, si possible, les appareils invités doivent aussi être isolés les uns des autres.
 
 # Pourquoi ne jamais donner cette clé à des personnes externes   
 
