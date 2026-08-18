@@ -222,16 +222,6 @@ Il peut notamment offrir :
 
 ➡️ Cette protection dépend de la configuration du routeur : le réseau invité doit être isolé du réseau local et, si possible, les appareils invités doivent aussi être isolés les uns des autres.
 
- 
-⚠️ Le Wi-Fi : une ressource que les hackers adorent exploiter   
-
-S’ils accèdent à votre Wi-Fi, ils peuvent utiliser **votre connexion** pour :   
-
-- attaquer d’autres entreprises,   
-- envoyer des e-mails malveillants,    
-- mener des activités illégales.   
-➡️ Toutes ces actions apparaîtront comme venant de **votre adresse IP**.   
-
 ---   
 
 # Comment le réseau invité protège l’entreprise   
