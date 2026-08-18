@@ -161,7 +161,7 @@ Une enquête peut devenir plus difficile lorsque :
 
 Une organisation doit protéger de nombreux comptes, appareils et services. Un attaquant cherche seulement un point d’entrée exploitable : service mal configuré, mot de passe compromis, logiciel non corrigé ou erreur humaine.
 
-Cette asymétrie peut avantager l’attaquant, mais le défenseur n’a pas besoin d’être parfait. La segmentation, l’authentification multifacteur, la surveillance et la réponse aux incidents peuvent empêcher une première intrusion de compromettre tout le système.
+Cette asymétrie peut avantager l’attaquant, mais le défenseur n’a pas besoin d’être parfait. La segmentation, l’authentification multifacteur, la surveillance et la réponse aux incidents peuvent prévenir certaines intrusions ou limiter les conséquences d'une conpromission.
 
 ---
 
