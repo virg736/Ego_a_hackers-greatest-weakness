@@ -175,7 +175,7 @@ Certains attaquants peuvent :
 - conserver des habitudes techniques ou horaires reconnaissables ;
 - sous-estimer les capacités d’analyse et de recoupement.
 
-➡️ Ces ressemblances constituent des indices. Elles ne prouvent pas, à elles seules, que plusieurs opérations ont été menées par la même personne.
+➡️ Ces ressemblances constituent des indices. Elles ne prouvent pas, à elles seules, que plusieurs opérations ont été menées par le même acteur ou le même groupe.
 
 ---   
 
