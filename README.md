@@ -142,6 +142,20 @@ Pour tenter de reconstituer le parcours, les enquêteurs peuvent devoir :
 
 ---   
 
+### 3️⃣ Le pays depuis lequel un attaquant opère peut compliquer les poursuites
+
+La localisation réelle d’un attaquant et celle des infrastructures utilisées peuvent relever de juridictions différentes.
+
+Une enquête peut devenir plus difficile lorsque :
+
+- les autorités doivent transmettre une demande d’entraide internationale ;
+- les lois, les procédures ou les délais de conservation des données diffèrent ;
+- les fournisseurs concernés ne disposent plus des journaux nécessaires ;
+- la coopération entre les pays est limitée ou lente ;
+- l’auteur bénéficie d’une protection ou d’une tolérance locale.
+
+➡️ La localisation à l’étranger ne garantit pas l’impunité, mais elle peut ralentir ou compliquer l’identification, l’arrestation et l’extradition d’un suspect.
+
 3️⃣ Ils opèrent souvent depuis des pays ou ils risquent peu.  
 
 Certains hackers agissent depuis des zones :   
